@@ -28,13 +28,18 @@ const Footer = () => {
                 </div>
                 </div>
             <div className="right">
-            <h4>About the the company</h4>
+            <h4>About Me</h4>
             <p>
-            Welcome to maniactech, your trusted partner in software development.
-             We specialize in crafting cutting-edge solutions that propel businesses into the future.
-             <h4>Our Mission:</h4>
-              At maniactech, our mission is to revolutionize industries through bespoke software solutions.
-              We thrive on challenges and are committed to delivering products that exceed expectations.
+            I'm Alan Achankunju, a Computer Science Engineering student based in India,
+             currently studying at the College of Engineering Cherthala. Passionate about software development,
+              I specialize in creating efficient and user-friendly web applications. With expertise in JavaScript,
+               React, and Node.js, I thrive on solving complex challenges to enhance user experiences. Beyond coding,
+                I'm enthusiastic about exploring emerging technologies and continuously expanding my skill set.
+                 Let's connect and explore opportunities to innovate together!
+             <h4> Mission:</h4>
+             My mission is to innovate through software development, creating user-centric solutions that drive positive impact. 
+             I focus on mastering JavaScript, React, and Node.js to build efficient web applications that enhance user experiences
+              and push technological boundaries.
             </p>
                 <div className="social">
                 <a class='social-link instagram'

@@ -3,7 +3,7 @@ import React from 'react';
 import Navbar from "../components/Navbar";
 import Heroimg from "../components/Heroimg";
 import Footer from "../components/Footer";
-import WorkingCard from '../components/WorkingCard';
+import Work from '../components/Work';
 
 
 function Home() {
@@ -12,7 +12,7 @@ function Home() {
       <Navbar />
       
       <Heroimg />
-      <WorkingCard/>
+      <Work/>
       <Footer/>
       
     </div>
